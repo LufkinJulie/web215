@@ -24,7 +24,7 @@ header, h2, h3, p  {
 .tagline {
 		text-align: center;
 		font-style: italic;
-		border-bottom: 10px double #006666;
+		border-bottom: 10px double #56b9f2;
 		font-size: 25px;
 }
 footer div{
@@ -32,7 +32,7 @@ footer div{
 		font-size: 20px;
 }
 a {
-		color: #6E2C00;
+		color: #086A87;
 }
 a:hover {
 		color: #FFEFD5;
@@ -41,7 +41,7 @@ header a{
 		text-decoration: none;
 }
 footer a{
-		color: #6E2C00;
+		color: #086A87;
 		text-decoration: none;
 }
 footer, footer	p{
@@ -62,7 +62,7 @@ main p {
 		text-align: left;
 }
 .blocking {
-		border-bottom: 10px double #006666;
+		border-bottom: 10px double #56b9f2;
 }
 figure {
 		text-align: center;
@@ -78,7 +78,7 @@ ul {
 		display: inline-block;
 }
 .buttons {
-		 border: double #006666;
+		 border: double #56b9f2;
 		 color: #086A87;
 		 padding: 5px 24px;
 		 text-align: center;
