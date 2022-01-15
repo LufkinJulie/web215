@@ -24,7 +24,7 @@ header, h2, h3, p  {
 .tagline {
 		text-align: center;
 		font-style: italic;
-		border-bottom: 10px double #56b9f2;
+		border-bottom: 10px double #2ea0e1;
 		font-size: 25px;
 }
 footer div{
@@ -62,7 +62,7 @@ main p {
 		text-align: left;
 }
 .blocking {
-		border-bottom: 10px double #56b9f2;
+		border-bottom: 10px double #2ea0e1;
 }
 figure {
 		text-align: center;
@@ -78,7 +78,7 @@ ul {
 		display: inline-block;
 }
 .buttons {
-		 border: double #56b9f2;
+		 border: double #2ea0e1;
 		 color: #086A87;
 		 padding: 5px 24px;
 		 text-align: center;
