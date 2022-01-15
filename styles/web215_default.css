@@ -3,7 +3,7 @@ body {
 		margin-right: 50px;
 		font-family: Georgia, san-serif;
 		color: #086A87 ;
-		background: linear-gradient(to top, #c0d8e6 0%, #F69999 100%);
+		background: radial-gradient(circle, #c0d8e6, #F69999);
 		font-size: 25px;
 }
 img {
