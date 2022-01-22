@@ -12,7 +12,7 @@ h1 {
 		font-style: italic;
 		padding: .5px;
 }
-h2, h3, p  {
+h2, h3, h4, p  {
 		text-align: center;
 		margin: 0px;
 		padding: .1em;
@@ -25,9 +25,6 @@ h2, h3, p  {
 		padding:10px;
 		margin-right: 200px;
 		margin-bottom: 25px;
-}
-h4 {
-		text-align: center;
 }
 ul {
 		margin-left: 500px;
