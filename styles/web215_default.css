@@ -4,30 +4,37 @@ body {
 		font-family: Georgia, san-serif;
 		color: #086A87 ;
 		background: radial-gradient(circle, #c0d8e6, #F69999);
-		font-size: 25px;
+		font-size: 20px;
 }
-img {
-		height: 500px;
-		width: auto;
+.introList {
+		font-family: 'Yeseva One', cursive;
+		font-size: 22px;
 }
+
 h1 {
 		text-align: center;
 		color: #086A87;
 		font-style: italic;
-		padding: .5px;
+		border-bottom: 10px double #2ea0e1;
 }
-header, h2, h3, p  {
+header nav {
+		text-align:center;
+}
+h2, h3, p  {
 		text-align: center;
 		margin: 0px;
 		padding: .1em
 }
+
 .tagline {
 		text-align: center;
 		font-style: italic;
 		border-bottom: 10px double #2ea0e1;
-		font-size: 25px;
+		padding-bottom: 5px;
+		font-size: 20px;
 }
 footer div{
+		padding-top: 5px;
 		text-align: center;
 		font-size: 20px;
 }
@@ -47,22 +54,17 @@ footer a{
 footer, footer	p{
 		font-style: italic;
 		text-align: center;
-}
-nav {
-		text-align: center;
-		font-size: 25px;
+		padding-top: 5px;
+		padding-bottom: 5px;
 }
 main nav {
 		text-align: center;
-		font-size: 20px;
+		font-size: 15px;
 }
 main p {
-		margin-top: 20px;
-		margin-bottom: 20px;
+		margin-top: 15px;
+		margin-bottom: 15px;
 		text-align: left;
-}
-.blocking {
-		border-bottom: 10px double #2ea0e1;
 }
 figure {
 		text-align: center;
@@ -70,7 +72,7 @@ figure {
 }
 figcaption {
 		text-align: center;
-		font-size: 20px;
+		font-size: 15px;
 		font-style: italic;
 }
 ul {

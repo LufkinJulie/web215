@@ -57,6 +57,7 @@ header a{
 footer a{
 		color: #65000b;
 		text-decoration: none;
+		font-size: 20px;
 }
 footer, footer	p{
 		font-style: italic;
@@ -72,6 +73,11 @@ main p {
 .blocking {
 		border-bottom: 10px double #65000b;
 		padding-bottom: 0px;
+}
+.brandtoc {
+		text-align: center;
+		list-style-type: none;
+		display: block;
 }
 .buttons {
 		 border: double #65000b;
