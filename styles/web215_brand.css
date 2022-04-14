@@ -3,13 +3,13 @@ body {
 		margin-right: 50px;
 		margin-bottom: 5px;
 		font-family: 'El Messiri', sans-serif;
-		color: #65000b;
-		background: #d2b48c;
+		color: #C1D4C8;
+		background: #C1D4C8;
 		font-size: 20px;
 }
 header h1 {
 		text-align: center;
-		color: #65000b;
+		color: #d93118;
 		font-style: italic;
 }
 h2, h3, h4, p  {
@@ -18,16 +18,17 @@ h2, h3, h4, p  {
 		padding: .1em;
 }
 main div {
-			background-color: #ffebcd;
+			background-color: #E5E5DB;
 			display: block;
 }
 #bread {
-		top: 10px;
+		top: 200px;
 		left: 45px;
 		float: left;
 		position: absolute;
 		height: 150px; width: 250px;
-		border-radius:50%;
+		border-radius:0;
+		text-align: center;
 }
 ul {
 		text-align: center;
@@ -37,7 +38,7 @@ ul {
 		text-align: center;
 		font-style: italic;
 		font-weight: bolder;
-		border-bottom: 10px double #65000b;
+		border-bottom: 10px double #BBAD9F;
 		font-size: 30px;
 		font-family: 'Dancing Script', cursive, sans-serif;
 		padding-bottom: 5px
@@ -48,10 +49,11 @@ footer div{
 		font-size: 15px;
 }
 a {
-		color: #65000b;
+		color: #d93118;
+		
 }
 a:hover {
-		color: #d2b48c;
+		color: #BBAD9F;
 }
 footer a:hover {
 		color: #ffebcd;
@@ -63,7 +65,7 @@ header a{
 		text-decoration: none;
 }
 footer a{
-		color: #65000b;
+		color: #d93118;
 		text-decoration: none;
 
 }
@@ -74,12 +76,13 @@ footer, footer	p{
 nav {
 		text-align: center;
 		font-size: 20px;
+		
 }
 main p {
 		text-align: center;
 }
 .blocking {
-		border-bottom: 10px double #65000b;
+		border-bottom: 10px double #BBAD9F;
 		padding-bottom: 0px;
 }
 .brandtoc {
@@ -88,8 +91,8 @@ main p {
 		display: block;
 }
 .buttons {
-		 border: double #65000b;
-		 color: #65000b;
+		 border: double #BBAD9F;
+		 color: #d93118;
 		 padding: 5px 24px;
 		 text-align: center;
 		 text-decoration: none;
