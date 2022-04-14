@@ -25,9 +25,11 @@ h1 {
 		color: #086A87 ;
 		font-style: italic;
 		border-bottom: 10px double #6e7f80;
-        font-weight: bolder;
+        	font-weight: bolder;
+		margin:0;
 }
-header nav {
+header nav 
+		padding-top: 5px;
 		text-align:center;
 }
 h2, h3, h4 {
