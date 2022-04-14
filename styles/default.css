@@ -30,12 +30,15 @@ h1 {
 }
 header nav {
 		padding-top: 5px;
-		text-align:center;
+		text-align: center;
 }
-h2, h3, h4 {
+h2 {
+	text-align: center;
+}
+h3, h4 {
 		text-align: center;
 		margin: 0px;
-		padding: .1em
+		padding: .1em;
 }
 .ptext{
     text-align: center;
